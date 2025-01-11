@@ -3,7 +3,6 @@ import subprocess
 import psutil
 import math
 
-#LOL Comments
 
 # Command modules
 
