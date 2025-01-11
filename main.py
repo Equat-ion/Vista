@@ -3,7 +3,6 @@ import subprocess
 import psutil
 import math
 
-
 # Command modules
 
 def calculator_adv():
